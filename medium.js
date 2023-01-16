@@ -5,6 +5,6 @@ var months = ["JAN", "FEB", "MAR", "APR", "MAY", "JUN",
 if(num >=1 && num<=12){ 
 console.log(months[num-1]);
 }else {
-    console.log("Invalid input. Please enter a number between 1 and 12.");
+    console.log("Invalid. Please enter a number between 1 and 12.");
 }
 
